@@ -22,12 +22,12 @@ To contribute: Fork, branch, and submit PRs
 
 
 Links
-Fairer Terms for Data Access [Link text] (https://www.mozillafoundation.org/en/what-we-do/mobilize/fair-terms-report/)
-Public Data Access Programs, A  First Look [Link text] (https://www.mozillafoundation.org/en/blog/new-research-tech-platforms-data-access-initiatives-vary-widely/)
+Fairer Terms for Data Access  (https://www.mozillafoundation.org/en/what-we-do/mobilize/fair-terms-report/)
+Public Data Access Programs, A  First Look (https://www.mozillafoundation.org/en/blog/new-research-tech-platforms-data-access-initiatives-vary-widely/)
 
 
 
 
 
 Maintainers
-These terms are maintained by Mozilla Foundation [Link text](https://www.mozillafoundation.org) and AWO [Link text] (https://awo.agency/)
+These terms are maintained by Mozilla Foundation (https://www.mozillafoundation.org) and AWO (https://awo.agency/)
