@@ -1,4 +1,4 @@
-Fairer Terms for Researcher Access to Data
+###Fairer Terms for Researcher Access to Data###
 
 At Mozilla Foundation, we believe privacy-protecting research is essential to understanding harmful data practices at scale.
 This kind of access is foundational to maintaining trust—and to building better technology ecosystems.
@@ -13,7 +13,7 @@ If you're a public interest platform researcher, here are model data-sharing ter
 
 
 
-Contributing
+##Contributing##
 We welcome contributions from platform researchers, data privacy and security experts, online platforms, and others with relevant expertise. We welcoem
 We encourage you to download and adapt these model terms, and to contribute adapted versions back to this repo.
 To contribute: Fork, branch, and submit PRs
@@ -21,11 +21,13 @@ To contribute: Fork, branch, and submit PRs
 
 
 
-Links
+##Links##
 [Fairer Terms for Data Access](https://www.mozillafoundation.org/en/what-we-do/mobilize/fair-terms-report/)
+
+
 [Public Data Access Programs, A  First Look](https://www.mozillafoundation.org/en/blog/new-research-tech-platforms-data-access-initiatives-vary-widely/)
 
 
 
-Maintainers
+##Maintainers##
 These terms are maintained by [Mozilla Foundation](https://www.mozillafoundation.org) and [AWO](https://awo.agency/)
