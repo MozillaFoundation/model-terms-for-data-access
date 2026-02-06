@@ -9,7 +9,7 @@ Often, these terms actually hinder rigorous third party research, by preventing 
 We decided to flip the script. We asked the data rights agency AWO to draft a prototype data sharing agreement which reflects user privacy and data security, and doesn't impose conditions that unnecessarily constrain research.
 The result is a model contract that both platforms and researchers can adapt. We believe it centers the realities of public-interest platform research while respecting user privacy and legitimate business interests.
 
-If you're a public interest platform researcher, here are model data-sharing terms you adapt and can use right now.
+If you're a public interest platform researcher, here are model data-sharing terms you adapt and can use right now..
 
 
 
