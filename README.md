@@ -146,7 +146,7 @@ between the parties.]{.mark}
 other(s), which the parties acknowledge is sufficient consideration,
 each Researcher and Platform agree as follows:
 
-1.  []{#_heading=h.eb8vm1a4kav7 .anchor}**[INTERPRETATION]{.smallcaps}**
+1.  []{#_heading=h.eb8vm1a4kav7 .anchor}**[INTERPRETATION]**
 
 > The definitions and rules of interpretation in this clause apply in
 > this Agreement.
@@ -470,7 +470,7 @@ ii. where Data Protection Legislation of the United Kingdom is
             that is specified in the Public Data Request, subject to any
             Quota under clause 5.4.1.
 
-5.  **[MODES OF ACCESS AND ACCESS TOOLS]{.smallcaps}**
+5.  **MODES OF ACCESS AND ACCESS TOOLS**
 
     1.  Access to Research Data shall be provided by the Platform to the
         Researcher(s) by means which are appropriately secure, such
