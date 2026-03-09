@@ -411,7 +411,7 @@ ii. where Data Protection Legislation of the United Kingdom is
         writing, and with specific application to the request in
         question, why the ground for refusal is made out.
 
-3.  []{#_heading=h.9vyc2j92nia9 .anchor}**CHANGES TO RESEARCH**
+3.  **CHANGES TO RESEARCH**
 
     1.  If, following acceptance of a Public Data Request, the
         Researcher(s)' plans for the use of the Research Data materially
@@ -535,8 +535,7 @@ ii. where Data Protection Legislation of the United Kingdom is
         Platform and, if relevant, the Platform may terminate that
         person's access to the Research Data.
 
-6.  **[USE OF RESEARCH
-    DATA]**
+6.  **[USE OF RESEARCH    DATA]**
 
 > The Researcher(s) shall only use the Research Data for purposes
 > reasonably related to the Research Project described in the related
@@ -561,8 +560,7 @@ ii. where Data Protection Legislation of the United Kingdom is
         GDPR and UK GDPR, and each party is therefore responsible for
         its own compliance with the GDPR and UK GDPR.
 
-8.  **[ONWARD SHARING of research
-    data]**
+8.  **[ONWARD SHARING of research    data]**
 
     1.  The Researcher(s) may only share with third parties (other than
         competent authorities) all or part of the Research Data as
