@@ -995,9 +995,9 @@ Signature:
 
 Date:
 
-**[FORM OF PUBLIC DATA REQUEST]{.smallcaps}**
+**[FORM OF PUBLIC DATA REQUEST]**
 
-**[ANNEX IA: RESEARCH PROJECT AND DATA REQUESTED]{.smallcaps}**
+**[ANNEX IA: RESEARCH PROJECT AND DATA REQUESTED]**
 
 A.  **Description of the research project(s) for which Research Data
     will be shared pursuant to this Agreement (the "Research Project")
@@ -1050,7 +1050,7 @@ D.  **Disclosure of the funding for the Research Project**
 
 [\[insert\]]{.mark}
 
-**[ANNEX IB: PROPOSALS FOR DATA SHARING, SECURITY ETC.]{.smallcaps}**
+**[ANNEX IB: PROPOSALS FOR DATA SHARING, SECURITY ETC.]**
 
 A.  **Description of data to be shared by Platform (the "Research
     Data")**
@@ -1109,7 +1109,7 @@ G.  **Period for which the Researcher(s) is permitted to retain the
 Research Project, or by occurrence of a certain event, e.g. acceptance
 of the Research Output in a publication\]]{.mark}*
 
-**[ANNEX II: FORM OF DECLARATION OF ACCESSION]{.smallcaps}**
+**[ANNEX II: FORM OF DECLARATION OF ACCESSION]**
 
 **DECLARATION OF ACCESSION**
 
