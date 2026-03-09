@@ -146,7 +146,7 @@ between the parties.]{.mark}
 other(s), which the parties acknowledge is sufficient consideration,
 each Researcher and Platform agree as follows:
 
-1.  []{#_heading=h.eb8vm1a4kav7 .anchor}**[INTERPRETATION]**
+1.  **INTERPRETATION**
 
 > The definitions and rules of interpretation in this clause apply in
 > this Agreement.
@@ -535,7 +535,7 @@ ii. where Data Protection Legislation of the United Kingdom is
         Platform and, if relevant, the Platform may terminate that
         person's access to the Research Data.
 
-6.  **[USE OF RESEARCH    DATA]**
+6.  **USE OF RESEARCH    DATA**
 
 > The Researcher(s) shall only use the Research Data for purposes
 > reasonably related to the Research Project described in the related
@@ -560,7 +560,7 @@ ii. where Data Protection Legislation of the United Kingdom is
         GDPR and UK GDPR, and each party is therefore responsible for
         its own compliance with the GDPR and UK GDPR.
 
-8.  **[ONWARD SHARING of research    data]**
+8.  **ONWARD SHARING of research    data**
 
     1.  The Researcher(s) may only share with third parties (other than
         competent authorities) all or part of the Research Data as
@@ -588,8 +588,8 @@ ii. where Data Protection Legislation of the United Kingdom is
         measures pursuant to DSA Article 35, or as otherwise required by
         law.
 
-9.  **[PUBLICATION of RESEARCH
-    FINDINGS]**
+9.  **PUBLICATION of RESEARCH
+    FINDINGS**
 
     1.  The Researcher(s) agrees to use reasonable efforts to provide
         the Platform with a copy of each Research Publication at least
@@ -618,7 +618,7 @@ ii. where Data Protection Legislation of the United Kingdom is
         written permission, unless these are available under an open
         research framework.
 
-10. **[RECORD-KEEPING]**
+10. **RECORD-KEEPING**
 
     1.  The Researcher(s) shall maintain such records as are reasonably
         required to be able to demonstrate compliance with their
@@ -632,7 +632,7 @@ ii. where Data Protection Legislation of the United Kingdom is
         has reasonable grounds to suspect non-compliance, or otherwise
         to comply with their legal obligations.
 
-11. **[RESTRICTED INTERNATIONAL TRANSFERS]**
+11. **RESTRICTED INTERNATIONAL TRANSFERS**
 
     1.  In the event of a Restricted Transfer from the Platform to the
         Researcher(s) or from the Researcher(s) to third parties (as
@@ -736,8 +736,8 @@ ii. where Data Protection Legislation of the United Kingdom is
         prejudice to any other rights and remedies which that first
         party may have.
 
-15. **[LIMITATION OF
-    LIABILITY]**
+15. **LIMITATION OF
+    LIABILITY**
 
     1.  Nothing in this Agreement shall operate so as to exclude or
         limit the liability of either party to the other for:
@@ -762,7 +762,7 @@ this clause or - if not possible - include only the wording in
 
 <!-- -->
 
-16. **[NEW RESEARCHERS]**
+16. **NEW RESEARCHERS**
 
     1.  An additional Researcher involved in the Research Project (a
         "**New Researcher**") shall automatically become a party to this
@@ -777,7 +777,7 @@ this clause or - if not possible - include only the wording in
             Platform and the other parties to this Agreement hereby
             authorise Platform to do this at its reasonable discretion.
 
-17. **[TERM and TERMINATION]**
+17. **TERM and TERMINATION**
 
     1.  This Agreement commences on the Effective Date and continues for
         as long as Research Data is shared between any Researcher and
@@ -845,7 +845,7 @@ this clause or - if not possible - include only the wording in
 
 > 
 
-18. **[NO WAIVER]**
+18. **NO WAIVER**
 
 > The failure to exercise, or delay in exercising, a right, power or
 > remedy provided by this Agreement or by law shall not constitute a
@@ -856,13 +856,13 @@ this clause or - if not possible - include only the wording in
 > provision or any other provision of this Agreement, which will instead
 > require a variation to this Agreement in accordance with clause 24.
 
-19. **[REMEDIES CUMULATIVE]**
+19. **REMEDIES CUMULATIVE**
 
 > The rights, powers and remedies provided in this Agreement are (except
 > as expressly provided) cumulative, and not exclusive of, any rights,
 > powers and remedies provided by law or otherwise.
 
-20. **[SEVERABILITY]**
+20. **SEVERABILITY**
 
     1.  If any provision, or part of a provision, of this Agreement is
         found by any court or authority of competent jurisdiction to be
@@ -881,7 +881,7 @@ this clause or - if not possible - include only the wording in
         question and with no fundamental change to the bargain between
         the parties.
 
-21. **[ENTIRE AGREEMENT]**
+21. **ENTIRE AGREEMENT**
 
     1.  This Agreement constitutes the entire agreement between the
         parties and supersedes and extinguishes all agreements,
@@ -908,7 +908,7 @@ this clause or - if not possible - include only the wording in
         either party arising out of any pre-contractual fraudulent
         misrepresentation or fraudulent concealment.
 
-22. **[ASSIGNMENT]**
+22. **ASSIGNMENT**
 
     1.  The parties may not assign, novate or otherwise transfer or
         dispose of any of its rights or obligations under this
@@ -920,7 +920,7 @@ this clause or - if not possible - include only the wording in
         its sub-contractors as if they were that party's own acts or
         omissions.
 
-23. **[NO PARTNERSHIP OR AGENCY]**
+23. **NO PARTNERSHIP OR AGENCY**
 
 > Nothing in this Agreement is intended to, or shall be deemed to,
 > establish or constitute any partnership or joint venture between the
@@ -928,20 +928,20 @@ this clause or - if not possible - include only the wording in
 > between the parties, or authorise either party to make or enter into
 > any commitments for or on behalf of the other party.
 
-24. **[VARIATIONS]**
+24. **VARIATIONS**
 
 No variation of this Agreement shall be effective unless made in writing
 and signed by or on behalf of each of the parties or by their duly
 authorised representatives.
 
-25. **[THIRD PARTY  RIGHTS]**
+25. **THIRD PARTY  RIGHTS**
 
 Except as explicitly provided in this Agreement, or in applicable
 Standard Contractual Clauses in relation to them, a person who is not a
 party to this Agreement may not enforce any of its provisions under the
 Contracts (Rights of Third Parties) Act 1999.
 
-26. **[NOTICES]**
+26. **NOTICES**
 
     1.  Any notice given to a party under or in connection with this
         Agreement shall be in writing by email.
@@ -950,7 +950,7 @@ Contracts (Rights of Third Parties) Act 1999.
         other documents in any legal action or, where applicable, any
         arbitration or other method of dispute resolution.
 
-27. **[GOVERNING LAW AND    JURISDICTION]**
+27. **GOVERNING LAW AND    JURISDICTION**
 
 > *\[[Note: the governing law and jurisdiction here should be those in
 > which the Researcher(s) are a resident (if an individual) or
@@ -1109,7 +1109,7 @@ G.  **Period for which the Researcher(s) is permitted to retain the
 Research Project, or by occurrence of a certain event, e.g. acceptance
 of the Research Output in a publication\]]{.mark}*
 
-**[ANNEX II: FORM OF DECLARATION OF ACCESSION]**
+**ANNEX II: FORM OF DECLARATION OF ACCESSION**
 
 **DECLARATION OF ACCESSION**
 
